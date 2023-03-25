@@ -1,0 +1,23 @@
+{
+  "name": "javascript-binarysearchtree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1912Alan-Turing1954/Javascript-BinarySearchTree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1912Alan-Turing1954/Javascript-BinarySearchTree/issues"
+  },
+  "homepage": "https://github.com/1912Alan-Turing1954/Javascript-BinarySearchTree#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
