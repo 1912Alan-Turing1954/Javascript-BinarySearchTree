@@ -142,7 +142,7 @@ Tree.insert(9);
 
 
 
-Tree.preorder(Tree.root)
+// Tree.preorder(Tree.root)
 
 
-Tree.inorder(Tree.root)
+// Tree.inorder(Tree.root)
